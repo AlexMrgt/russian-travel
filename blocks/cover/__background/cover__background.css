@@ -1,0 +1,10 @@
+.cover__background{
+  position: relative;
+  grid-area: cover;
+  width: 100%;
+}
+@media screen and (max-width:767px) {
+  .cover__background{
+    max-width: 320px;
+  }
+}
