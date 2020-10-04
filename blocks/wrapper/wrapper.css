@@ -14,28 +14,4 @@
   padding-top: 28px;
 
   color: white;
-  background-color: #2A2C2F;
-
 }
-
-@media screen  and (max-width:1279px) {
-  .wrapper{
-    max-width: 1024px;
-  }
-}
-
-@media screen  and (max-width:1023px) {
-  .wrapper{
-    max-width: 768px;
-  }
-}
-
-
-@media screen and (max-width:767px) {
-  .wrapper{
-    max-width: 320px;
-  }
-}
-
-
-

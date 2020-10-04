@@ -1,0 +1,16 @@
+.section-delimiter{
+  margin-bottom: 92px;
+}
+
+
+@media screen and (max-width:1023px){
+  .section-delimiter{
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width:767px){
+  .section-delimiter{
+    margin-bottom: 64px;
+  }
+}

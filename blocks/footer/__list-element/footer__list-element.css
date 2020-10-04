@@ -1,18 +1,15 @@
 .footer__list-element{
-  display: inline-block;
-  margin-right: 18px;
+
+  margin: 0 18px 0 0;
+
 }
 
 .footer__list-element:last-child{
-  margin-right: 0;
+  margin: 0;
 }
 
-@media screen and (min-width:320px) and (max-width:767px) {
+@media screen and (max-width:767px) {
   .footer__list-element{
-   display: block;
-   margin-bottom: 32px;
-  }
-  .footer__list-element:last-child{
-    margin-bottom: 0;
+    margin-bottom: 32px;
   }
 }

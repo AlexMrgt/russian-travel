@@ -1,6 +1,11 @@
-.header__lang-links-container{
+.header__lang-links-list{
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
   align-items: center;
+
+
+  list-style: none;
+  margin:0;
+  padding: 0;
 }

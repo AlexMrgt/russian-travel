@@ -1,8 +1,0 @@
-.cover__content{
-  margin: auto;
-  position: relative;
-  grid-area: cover;
-  z-index: 2;
-  display: flex;
-  flex-direction: column;
-}

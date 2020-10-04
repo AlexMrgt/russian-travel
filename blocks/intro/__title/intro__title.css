@@ -4,15 +4,16 @@
   font-size: 54px;
   font-weight: 900;
   line-height: 58px;
+
+  cursor: default;
 }
 
 
 
-@media screen  and (min-width: 320px) and (max-width: 767px) {
+@media screen  and (max-width:767px) {
 
   .intro__title{
     font-size: 32px;
-    font-weight: 900;
     line-height: 35px;
   }
 }
