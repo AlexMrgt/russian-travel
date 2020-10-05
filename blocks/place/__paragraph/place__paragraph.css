@@ -4,9 +4,6 @@
   font-weight: normal;
   font-size: 18px;
   line-height: 29px;
-  /* тут была поправка, что не помакету, но в макете именно это значение
-    29px или 169%
-  */
   margin: 0 0 24px;
   align-self: start;
 
@@ -19,6 +16,7 @@
 @media screen and (max-width:1023px) {
   .place__paragraph{
     font-size: 16px;
+    line-height: 26px;
   }
 }
 
